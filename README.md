@@ -11,5 +11,5 @@
 
 ## References
 
-[ASP.NET Core Web API App](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-2.2&tabs=visual-studio#overview-1)
-[ASP.NET Core CORS](https://weblog.west-wind.com/posts/2016/sep/26/aspnet-core-and-cors-gotchas)
+- [ASP.NET Core Web API App](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-2.2&tabs=visual-studio#overview-1)
+- [ASP.NET Core CORS](https://weblog.west-wind.com/posts/2016/sep/26/aspnet-core-and-cors-gotchas)
